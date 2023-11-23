@@ -8,7 +8,7 @@ This repository contains two main folders
 * `/Python` - Codes written in Python 3. Can also contain code having C code with Python Wrapper
 * `/C` - Contains numerical method codes implemented in C
 
-This reposittory must be useful for C and Python coders.
+This repository must be useful for C and Python coders.
 
 ## Languages Accepted
 * Python 3
